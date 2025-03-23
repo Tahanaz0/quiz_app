@@ -86,6 +86,56 @@ questions = [
         "question": "What is a `dictionary` used for in Python?",
         "options": ["A. To store key-value pairs", "B. To sort numbers", "C. To create graphics", "D. None of the above"],
         "answer": "A"
+    },
+      {
+        "question": "What is the output of `2 ** 3` in Python?",
+        "options": ["A. 6", "B. 8", "C. 9", "D. 10"],
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["A. func", "B. define", "C. def", "D. function"],
+        "answer": "C"
+    },
+    {
+        "question": "What does the `append()` method do in Python?",
+        "options": ["A. Adds an element to the end of a list", "B. Removes an element from a list", "C. Sorts a list", "D. Reverses a list"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the correct way to create a comment in Python?",
+        "options": ["A. // This is a comment", "B. /* This is a comment */", "C. # This is a comment", "D. <!-- This is a comment -->"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the `return` statement in a function?",
+        "options": ["A. To stop the function", "B. To return a value from the function", "C. To print a value", "D. To define a variable"],
+        "answer": "B"
+    },
+    {
+        "question": "Which operator is used for floor division in Python?",
+        "options": ["A. /", "B. //", "C. %", "D. **"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of `'Hello' + 'World'` in Python?",
+        "options": ["A. HelloWorld", "B. Hello World", "C. Hello+World", "D. Error"],
+        "answer": "A"
+    },
+    {
+        "question": "What does the `strip()` method do in Python?",
+        "options": ["A. Splits a string", "B. Removes leading and trailing whitespace", "C. Converts a string to uppercase", "D. Reverses a string"],
+        "answer": "B"
+    },
+    {
+        "question": "Which data type is immutable in Python?",
+        "options": ["A. List", "B. Dictionary", "C. Tuple", "D. Set"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the `import` statement in Python?",
+        "options": ["A. To include external libraries", "B. To define a function", "C. To create a loop", "D. To print output"],
+        "answer": "A"
     }
 ]
 
